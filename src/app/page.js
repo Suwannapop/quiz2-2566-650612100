@@ -20,7 +20,7 @@ export default function HomePage() {
           name={"Supakorn Suwannapop"}
           id={"650612100"}
           post={"Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207"}
-          like={"300"}
+          like={"100"}
         />
 
         {/* Comment and Reply */}
